@@ -1,0 +1,174 @@
+Logic  : 
+
+Developer : 
+
+Time Compexity : 
+
+Space Complexity : 
+
+Mathematics :
+
+Number : 2,4,5,6,7,8,9
+
+Number us used to denote the physical quantities
+
+mks : meter kilogram second
+cgs : centimeter gram second
+fps : foot pound second
+
+
+Decimal System : 0,1,2,3,4,5,6,7,8,9
+Binary : 0,1
+
+256 : 
+
+High Level Languages : convert into  : Low Level Language
+Low Level Language : convert into  : High level language
+
+Compiler : 
+256 : 
+
+Web Developer : 
+
+
+Front End : Html, CSS, JavaScript, Ajax
+
+Back End : PHP => Laravel
+
+SQL : RDBMS : SQL Server , Mysql, Oracle, Sql lite , PL/SQL
+
+1989 : Tim Berners Lee : Platform for Information Interchange : World Wide Web
+The Web was invented by English computer scientist Tim Berners-Lee while at CERN in 1989 and opened to the public in 1991.
+
+Html  : Tim Berners Lee : 1991
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browse
+
+CSS : Styling
+
+JavaScript : Client Side Validation : Brandon Eich : 1991
+
+PHP : Server Side Validation : Rosmus Lerdrof : 1993
+
+Database : used to store the data : 
+IBM researchers Donald D. Chamberlin and Raymond F. Boyce invented Structured Query Language (SQL) in the 1970s:
+
+
+Framework : 
+M : Model : Database
+V : View : Front End
+C : Controller : Backend
+
+Front End : 
+Html : 
+DOM : 
+CSS : 
+JavaScript : 
+PHP : 
+
+Decimal : 0-9
+Binary : 0-1
+
+25 : Decimal
+Decimal to Binary : 
+Binary to Decimal :
+Octal system
+Hexadecimal System
+
+0  : 0000 :0
+1  : 0001 :1
+2  : 0010 :2
+3  : 0011 :3
+4  : 0100 :4
+5  : 0101 :5
+6  : 0110 :6
+7  : 0111 :7
+8  : 1000 :8
+9  : 1001 :9
+10 : 1010 :A
+11 : 1011 :B
+12 : 1100 :C
+13 : 1101 :D
+14 : 1110 :E
+15 : 1111 :F
+
+Https : Hypertext Transfer Protocol Secure : SSL : Secure Socket Layer
+
+https://www.google.com/ - uniform resource locator
+
+
+Programming : 
+
+Procedural Programming : C, SQL
+
+Object Oriented Programming : C++, PHP
+
+Functional Programming : 
+
+SCRIPTING : 
+PHP
+Python
+Linux:Shell Scripting
+Java
+JavaScript
+Perl
+Ruby and Rails
+
+
+FORTRAN : Formula Translation
+COBOL : Common Business Oriented Programming Language
+
+Object Oriented Programming : 
+Paradigm :
+Bottom to Top
+
+Class : user defined data type : which is collection of attributes and behavior
+
+Object : Instance of class
+
+Constructor : 
+
+Inheritance : 
+
+Encapsulation : 
+
+Polymorphism : 
+
+Abstraction : 
+
+Interface : 
+
+Scope : 
+where we can access the variable
+local scope
+global scope
+
+namespace :
+
+Variable : which is used to store the value in memory location
+
+int age = 50;
+
+Expression : 
+
+a + b = c
+
+combination of operand + operator => Expression
+
+age = 30; //constant
+
+constant : value cannot be change
+
+literal 
+
+Data types : 
+String : 
+Integer : 
+
+
+Php -v : Version of Php
+
+php -S localhost:8000
+
+
+
+

@@ -1,0 +1,306 @@
+Programming : 
+Full Stack Development : 
+High Level Programming Language : 
+
+
+Front End : 
+HTML : XML
+CSS : Tailwind, SASS
+Javascript : Adv Js(ES 2022) - Client Side Validation
+
+Node JS : 
+Node Js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Chrome : V8 Engine : 
+FireFox : Spyder Monkey
+Edge : Chakra
+Safari : JavaScriptCore
+
+JavaScript Libraries : 
+React JS
+
+
+Backend : 
+
+
+Database : 
+
+Low Level Programming Language :
+Binary =>  0,1
+
+
+High level => Low Level
+
+Low Level => High Level
+
+Compiler : 
+
+Number : number is used to denote the physical quantities
+256 : 
+
+Programming : 
+Set of Codes : which will used to perform some particular task
+
+
+FORTRAN : Formula Translation
+
+COBOL : Common Business Oriented Programming Language
+
+Pascal : 
+Pascal is a programming language that was designed in the late 1960s by Niklaus Wirth. It was based on the ALGOL 60 language, but with expanded data structuring capabilities. Pascal was a popular choice for teaching programming in the 1970s and 1980s, and was also used for production software. 
+
+BCPL : Basic Combined Programming Language - Martin Richards : 1967
+
+B : Ken Thmopson - 1969
+
+C : Dennis Ritchie : 1971
+
+Structure Of C : 
+
+#include<stdio.h>
+int main()
+{
+   return 0;
+}
+
+Explanation : 
+# => Preprocessor 
+include => keyword which is use to include the library
+stdio.h => library is collection of predefined things
+int main() => main method => compiler will start execution
+{
+ //scope of main method
+}
+
+stdio.h =>
+printf : write :   show
+scanf : read : input
+
+Data Types : 
+Integer : 2,4,-9,89,45 => int => format specifier : %d : 4 bytes
+Decimal : 3.56, 9.87 => float/double => format specifier : %f/%lf : 4 bytes/ 8 bytes
+charachter : 'a', 'B' => char => format specifier : %c : 1 bytes
+
+Variable : used to store the value in memory
+
+Escape Sequences : 
+\n => new line
+
+operators : 
+Arithemtic Operator : +, -, *, /, %
+Relational Operator : >, < , >=, <=, ==, !=
+Logical Operator : AND(&&), OR(||), NOT(!)
+BitWise Operator : &, |, ~
+Assignment operator : =, +=, -=, *=, /=, %=
+Ternary Operator : (condition) ? true : false
+Increment and Decrmeent Operator : ++, --
+
+PreIncrement : ++a
+PostIncrment : a++
+
+PreDecrment : --a
+PostDecrement : a--
+
+
+Truth Table : 
+AND : 
+True	True	True
+True	False	False
+False	True	False
+False	False	False
+
+
+OR : 
+True	True	True
+True	False	True
+False	True	True
+False	False	False
+
+NOT : 
+True	False
+False	True
+
+Decision Control Structure : 
+if
+if else
+if else if else
+
+Looping : 
+For
+while
+do...while
+
+
+
+Data types : 
+25 => integer : int
+2.654 => decimal : float/double
+'a' => charachter : char
+"Sonu" => String : char
+Operators : 
+Arithmetic :
+what is an expression?
+operand + operator => Expression
+a + b = c
+
+a,b,c => operand
++,= > operators
+
+
+Composite Number : Any number which has more than two factors
+
+Prime Number : Any number which has exactly two factors
+
+GCD : gross common divisor or HCF : Highest Common Factor
+
+LCM : Least Common multiple
+
+Cloud Computing : 
+AWS : Amazon Web Services
+Azure : Microsoft
+Google Cloud : Google
+
+Leap Year : 
+
+
+Reverse  : 
+
+Sum of digits : 
+
+
+#include<stdio.h>
+int main()
+{
+    int x = 0; //initialization of variable
+    int y = 0;
+    int z = 0;
+    //printf : write
+    //scanf : read
+    printf("Enter value fo x : ");
+    scanf("%d", &x);
+    printf("Enter value of y : ");
+    scanf("%d", &y);
+    printf("Enter value of z : ");
+    scanf("%d", &z);
+    //relational operator >, <, >=, <=, ==, !=
+    if(x>y){
+        if(x>z){
+            printf("x is greater");
+        }
+    }
+    else if(y>z){
+        printf("Y is greater");
+    }else{
+        printf("Z is greater");
+    }
+
+    return 0;
+}
+
+#include<stdio.h>
+int main()
+{
+    int x = 0; //initialization of variable
+    int y = 0;
+    int z = 0;
+    int p = 0;
+    //printf : write
+    //scanf : read
+    printf("Enter value fo x : ");
+    scanf("%d", &x);
+    printf("Enter value of y : ");
+    scanf("%d", &y);
+    printf("Enter value of z : ");
+    scanf("%d", &z);
+    printf("Enter value of p : ");
+    scanf("%d", &p);
+    //relational operator >, <, >=, <=, ==, !=
+    //logical operator : and(&&), OR(||) , NOT(!)
+
+    if(x>y && x>z && x>p){
+        printf("x is greater");
+    }else if(y>x && y>z && y>p){
+        printf("Y is greater");
+    }else if(z>x && z>y && z>p){
+        printf("Z is greater");
+    }else if(p>x && p>y && p>z){
+        printf("P is greater");
+    }else{
+        printf("All are equal");
+    }
+
+    return 0;
+}
+
+High Level Programming Language : 
+
+FORTRAN : Formula Translation : 
+Fortran is a programming language that's especially suited for scientific and numeric computation. Here are some characteristics of Fortran:
+Origin
+IBM developed Fortran, which was first compiled in 1958. The name comes from "Formula Translation".
+
+Pascal : 
+Pascal is a programming language that was developed in Switzerland in the 1970s by Niklaus Wirth. It was named after the French mathematician, philosopher, and physicist Blaise Pascal. 
+
+COBOL : Common Buisness Oriented Programming Language
+
+BCPL : Basic Combined Programming Language : Martin Richards - AT & T Bell Laboratories
+
+B : Ken Thompson : 
+
+C : Dennis Ritchie : 1971
+
+Format Specifier : 
+%d - integer
+%f - float - decimal values
+%lf - double - decimal values
+%p - pointers
+%x - hexadecimal memory address
+%u - unsigned integer
+%c - charachters
+%s - string
+
+
+Escape Sequences : 
+\n: Newline
+\t: Horizontal tab
+\r: Carriage return
+\b: Backspace
+\f: Form feed
+\\: Backslash
+\': Single quote
+\": Double quote
+\a: Alert (bell)
+\v: Vertical tab
+\ooo: Octal representation (where 'ooo' are up to three octal digits)
+\xhh: Hexadecimal representation (where 'hh' are one or more hexadecimal digits)
+
+Data Types : 
+Primitive : 
+int
+float
+double
+char
+
+Derived  : 
+array
+pointer
+string
+
+User Defined Data Type : 
+structure
+union
+enum
+
+Pointers : 
+
+
+
+String  : 
+
+
+
+
+
+
+

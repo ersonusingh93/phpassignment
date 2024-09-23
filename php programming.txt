@@ -1,0 +1,59 @@
+PHP Programming : 
+What is PHP ?
+Server Side Scripting language
+
+Client : Server : API + Database
+Client : Html, CSS , Javascript
+Server : PHP
+Database : SQL : Structured Query Language
+Server : 
+PHP : Hypertext Preprocessro : Resmos Lerdroff : 
+
+
+SQL : 
+IBM researchers Donald D. Chamberlin and Raymond F. Boyce invented Structured Query Language (SQL) in the 1970s: 
+SQL is the standard programming language for interacting with relational database management systems. It allows database administrators to add, update, or delete rows of data. 
+
+
+
+Data : raw facts : smallest entity of any information
+
+information : collection of data which is in structured format
+
+Html : Tim Berners Lee : 
+
+WWW : World Wide Web : Tim Berners Lee
+
+URL : Uniform Resource locator
+URN : Uniform Resource network
+URI : Uniform Resource Identifier
+
+https://www.flipkart.com/
+
+https : 
+hypertext transfer protocol secure
+
+JavaScript : 
+Brandan Eich : 
+Brendan Eich, an American computer programmer, developed JavaScript in 1995 while working at Netscape Communications. Eich created JavaScript to make websites more interactive, extending the capabilities of HTML, the markup language used to write web pages. 
+
+ECMA : 
+Ecma International  is a nonprofit standards organization for information and communication systems.[1] It acquired its current name in 1994, when the European Computer Manufacturers Association (ECMA) changed its name to reflect the organization's global reach and activities. As a consequence, the name is no longer considered an acronym and no longer uses full capitalization.
+
+Html , CSS, JavaScript
+SASS : CSS with superpowers
+Tailwind : framework of css
+
+JavaScript : ES5 - ES6 : ES.NEXT
+
+Data Types : 
+2,4,5,6 => ineteger
+3.65, 2.568 => decimal
+"Ram" => string
+true, false => boolean
+
+
+API : Application Programming Interface
+
+REST  : Representational State Transfer
+
